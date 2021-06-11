@@ -1,5 +1,9 @@
 <p align="center">
-    <img src="https://github.com/Hernandes-Silva/VOTG/blob/main/imgsGit/gif-votg.gif">
+    <img src="https://github.com/Hernandes-Silva/VOTG/blob/main/imgsGit/gif-votg.gif" width='80%'>
+    <img src="https://github.com/Hernandes-Silva/VOTG/blob/main/imgsGit/git-votg2.gif" width="80%">
+    
+</p>
+<p align="center">
 </p>
 
 # VOTG
@@ -16,7 +20,7 @@ O VOTG é um sistema para a votação do grêmio estudantil do IFRN Campus Caic�
 
 ```bash
 
-# coloque o projeto na pasta htdocs do Xampp. Além disso lembre-se de colocar as dependencias de um projeto laravel como por exemplo a pasta vendor
+# coloque o projeto na pasta htdocs do Xampp.
 
 #acesse a pasta do projeto com o terminal/cmd e de o comando:
 $ composer install
@@ -54,7 +58,7 @@ $ php artisan migrate
 * [**Hernandes Matheus**](https://github.com/Hernandes-Silva) - *Desenvolvedor*
 * [**Daniel Lucas**](https://github.com/Hernandes-Silva) - *Analista*
 * [**Eduardo Alencar**](https://github.com/Hernandes-Silva) - *Designer*
-* [**Marcela Lyzandra**](https://github.com/Hernandes-Silva) - *Gerência*
+* [**Marcela Lyzandra**](https://github.com/marcelalyzandra) - *Gerência*
 
 ## License
 
