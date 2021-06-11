@@ -18,8 +18,6 @@ class CandidatoController extends Controller
     public function __construct(Request $request, Candidato $candidato){
         $this->request = $request;
         $this->repository = $candidato;
-        
-
     }
 
     #pagina de votação

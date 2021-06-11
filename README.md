@@ -59,4 +59,3 @@ $ php artisan migrate
 ## License
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
-
